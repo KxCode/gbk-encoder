@@ -1,0 +1,11 @@
+[
+            {
+                "caption": "Convert To UTF8 From GBK",
+                "command": "converttoutf8fromgbk"
+            },
+            {
+                "caption": "Convert To GBK From UTF8",
+                "command": "converttogbkfromutf8"
+            }
+
+]
